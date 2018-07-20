@@ -6,7 +6,7 @@ Created on Wed Jul 18 08:34:53 2018
 @author: thiagonobrega
 """
 from py2neo import Graph
-graph = Graph(auth=('neo4j', 't0t4l.'))
+graph = Graph(auth=('neo4j', ''))
 graph.delete_all()
 
 #from model.mm import Person
