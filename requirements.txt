@@ -1,0 +1,6 @@
+#pip3 install -r requirements.txt
+sqlalchemy
+flask
+py2neo
+neo4j-driver
+mysql-connector-python
