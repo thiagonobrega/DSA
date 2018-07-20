@@ -1,0 +1,8 @@
+[mysql]
+
+user = admin
+password = xxxxx
+host = ip.ip.ip.ip
+database = mysql
+raise_on_warnings = True
+
