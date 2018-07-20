@@ -92,7 +92,7 @@ def getDatabaseTables(cnx,database_name,graph):
 
 
 
-graph = Graph(auth=('neo4j', 't0t4l.'))
+graph = Graph(auth=('neo4j', ''))
 graph.delete_all()
 cnx = getConnection()
 #getDatabaseTables(cnx,'COMVEST',graph)
